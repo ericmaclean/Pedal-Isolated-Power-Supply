@@ -30,35 +30,4 @@ Visualizing the current we are able to see the current source spiking to charge 
 ![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/EasyEDA_Layout.png)
 ## Bill of Materials 
 
--1	WPDLXFMR-2	120V - 11V transformer	29.92 1	29.92 WPDLXFMR-2 Transformer – Weber Speakers
-
--2	1N4001G-T	Diodes (35Vrms, 1.1V drop) 0.17 32 5.44 https://www.digikey.com/en/products/detail/diodes-incorporated/1N4001G-T/45749
-
--3	LM2940CT LDO	9V LDO (.8V dropout, 1A) 1.94 7	13.58 https://www.digikey.com/en/products/detail/texas-instruments/LM2940CT-9-0-NOPB/363884
-
--4	MOV-14D181K	180V varistor voltage mov 0.26 3 0.78 MOV-14D181K Bourns Inc. | Circuit Protection | DigiKey
-
--5	10GEEG3E	EMI filter	5.58 1 5.58	10GEEG3E Delta Electronics | Connectors, Interconnects | DigiKey
-
--6	1.5KE20A	TVS diode 17.1V - 27.7V clamp 0.83 7 5.81 1.5KE20A Littelfuse Inc. | Circuit Protection | DigiKey
-
--7	MF-R030	PTC 200mA hold, 600mA trip 60V	0.42 7 2.94	MF-R030 Bourns Inc. | Circuit Protection | DigiKey
-
--8	0217010.HXP	Fuse 10A 250V 0.51 3 1.53 0217010.HXP Littelfuse Inc. | Circuit Protection | DigiKey
-
--9	DC female jack type 2 10pc 1.17	1 1.17 10Pcs DC Power Connector pin Female Plug Jack + Male Plug Jack Panel Mount Connector 5.5mm 2.1mm Plug Adapter 2 Terminal Types - AliExpress 13
-
--10	DC male jack 10pc	1.52 1 1.52	https://www.aliexpress.us/item/2255800004148598.html?src=bing&aff_short_key=UneMJZVf&aff_platform=true&isdl=y&albch=shopping&acnt=135095331&isdl=y&albcp=555220768&albag=1309519513086509&slnk=&trgt=pla-2333644710812054&plac=&crea=81845026508678&netw=o&device=c&mtctp=e&utm_source=Bing&utm_medium=shopping&utm_campaign=PA_Bing_US_Pmax_ALL_TROAS_20241217_newstore&utm_content=US-ALL&utm_term=DC%20female%20to%20male%20plug&msclkid=7be749d3fb091aa4d2712170744b6a6f&gatewayAdapt=glo2usa
-
--11	M2 140pc standoffs	0.99 1 0.99	M2 M2.5 M3 M4 Brass Motherboard Standoffs Hex Board Rack Stud Spacing Screw Hexagon Single Head PCB Pillar Bolts Screw Nut Kits - AliExpress 13
-
--12	200x120x75 box 1.7	1 1.7	Outdoor Waterproof Case Enclosure Plastic Box Electronic Project Case Waterproof Junction Box for Electronics - AliExpress
-
--13	drill bits 3.87 1 3.87 TOOLEYE HSS Titanium Step Drill Bit Stage Drills For Metal Wood High Speed Stepped Drill Set Power Tools 3-12 4-12 4-20 4-32mm - AliExpress
-
--14	amazon impact drill	29.99 1	29.99 Amazon.com: FADAKWALT Cordless Drill Set, 20V Electric Power Drill with Battery And Charger, Torque 30N, 21+1 Torque Setting, 3/8-Inch Keyless Chuck, Drill Driver Bits Kit, with LED Electric Drill Set. （green) : Tools & Home Improvement
-
-					104.82	
-
-
 
