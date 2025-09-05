@@ -17,15 +17,13 @@ This a project folder for a 9 channel isolated power supply. The design is based
 
 
 ## Falstad Circuit Flow 
-![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/Falstad60hztoDCfullbridgerectifier-ezgif.com-video-to-gif-converter.gif)
+![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Falstad60hztoDCfullbridgerectifier-ezgif.com-video-to-gif-converter.gif)
 
 ## LTspice Simulation
-![alt text][pic1]
-
-[pic1]: https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/SpiceSC.png
+![alt text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/SpiceSC.png)
 ## EasyEDA layout and Gerber Files
-![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/EasyEDA_Schematic.png)
-![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/EasyEDA_Layout.png)
+![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/EasyEDA_Schematic.png))
+![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/EasyEDA_Layout.png))
 ## Bill of Materials 
 
 
