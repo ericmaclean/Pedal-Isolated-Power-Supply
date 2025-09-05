@@ -29,6 +29,7 @@ Visualizing the current we are able to see the current source spiking to charge 
 ![alt text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/SpiceSC.png)
 ## EasyEDA layout and Gerber Files
 ![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/EasyEDA_Layout.png)
+I ordered 10 of these boards each of which act as a separate channel, it made ordering the boards cheaper easier than having an individual board for everything. On a second revision I would consider making the through holes on the TVS diode larger, the 1.5KE20A TVS diode is rated for a 54A peak current and has mcuh larger leads than I anticiapted.
 ## Bill of Materials 
 I bought all the electronics on mouser but found the enclosures and jacks are much cheaper on Ali Express
 - go here for a complete bill of materials in an excel file https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/Power%20supply.xlsx
