@@ -18,6 +18,8 @@ This a project folder for a 9 channel isolated power supply. The design is based
 [pic1]: https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/SpiceSC.png
 ## EasyEDA layout and Gerber Files
 
+## Bill of Materials 
+
 ## Build 
 
 
