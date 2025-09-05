@@ -17,9 +17,9 @@ This a project folder for a 9 channel isolated power supply. The design is based
 
 
 ## Falstad Circuit Flow 
-![alt text][pic2]
+![til]
 
-[pic2]: https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/Falstad60hztoDCfullbridgerectifier-ezgif.com-video-to-gif-converter%20(2).jpg
+[til]: https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/Falstad60hztoDCfullbridgerectifier-ezgif.com-video-to-gif-converter%20(2).jpg
 ## LTspice Simulation
 ![alt text][pic1]
 
