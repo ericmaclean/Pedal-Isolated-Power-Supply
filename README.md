@@ -21,6 +21,9 @@ This a project folder for a 9 channel isolated power supply. The design is based
 ![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Falstad_scope_measurements-ezgif.com-video-to-gif-converter.gif)
 
 Visualing the current we are able to see the current source spiking to charge the capacitor every cycle. This reveals a poor power factor inherent to linear power supplies, poor power factor results in a larger than neccessary current flowing through components that aren't contributing to the load power. Current contributes to I^2R heating losses and lead to wear on the transformer, diodes, and capacitors in this circuit. Current spikes can generate odd harmonics that propogate down power lines and cause EMI on neighboring circuits. This can be mitigiated with EMI filtering on the power source and adding an inductive choke which resist sharp changes in current, however smoothing the current spikes will result in lower voltage peaks seen by the capacitor reducing the effective DC votlage on the output. 
+
+- You can simulate and modify this circuit in Falstad by going here https://www.falstad.com/
+- And opening this text file https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/falstad/Falstad_LinearRectifier.txt
 ## LTspice Simulation
 ![alt text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/SpiceSC.png)
 ## EasyEDA layout and Gerber Files
