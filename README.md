@@ -29,6 +29,6 @@ Visualizing the current we are able to see the current source spiking to charge 
 ## EasyEDA layout and Gerber Files
 ![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/EasyEDA_Layout.png)
 ## Bill of Materials 
-I bought all the electronics on mouser but found the enclosures and jacks are much cheaper on Ali epxress
+I bought all the electronics on mouser but found the enclosures and jacks are much cheaper on Ali Express
 - go here for a complete bill of materials in an excel file https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/Power%20supply.xlsx
 
