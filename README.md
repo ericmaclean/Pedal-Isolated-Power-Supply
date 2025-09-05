@@ -14,6 +14,7 @@ This a project folder for a 9 channel isolated power supply. The design is based
 
 ## LTspice Simulation
 ![alt text][pic1]
+
 [pic1]: https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/SpiceSC.png
 ## EasyEDA layout and Gerber Files
 
