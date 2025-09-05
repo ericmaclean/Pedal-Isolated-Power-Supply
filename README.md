@@ -1,6 +1,6 @@
 # Pedal-Isolated-Power-Supply
 
-This is a project folder for a 9 channel isolated power supply. The design is based around the WPDL transformer that steps down 120VAC to 9VAC with 9 separate secondary windings. The isolated secondary windings ensure there are no ground loops contributing to common mode noise. I have a feeling that most cheap power supplies that advertise isolation are not actually truly isolated, I wasn't able to find any other transformers with multiple secondary isloated windings besides the WPDL which is decently bulky. The AC waveform is rectified and and then filtered and passed to linear regulator which holds the DC output at 9V. Each DC output is capable of outputting a continuous 200-300mA. One channel has a current limited LED which features as a power indication light. A 180V MOV on the primary side of the transformer as well as a 19V TVS diode serve as surge protection, while a fast blow 10A fuse on the primary servces as short circuit current protection.
+This is a project folder for a 9 channel isolated power supply. The design is based around the WPDL transformer that steps down 120VAC to 9VAC with 9 separate secondary windings. The isolated secondary windings ensure there are no ground loops contributing to common mode noise. I have a feeling that most cheap power supplies that advertise isolation are not actually truly isolated, I wasn't able to find any other transformers with multiple secondary isloated windings besides the WPDL which is decently bulky. The AC waveform is rectified and and then filtered and passed to linear regulator which holds the DC output at 9V. Each DC output is capable of outputting a continuous 200-300mA. One channel has a current limited LED which features as a power indication light. A 180V MOV on the primary side of the transformer as well as a 19V TVS diode serve as surge protection, while a fast blow 10A fuse on the primary serves as short circuit current protection.
 
 ## Features: 
 
@@ -33,5 +33,5 @@ Visualizing the current we are able to see the current source spiking to charge 
 I ordered 10 of these boards each of which act as a separate channel, it made ordering the boards cheaper easier than having an individual board for everything. On a second revision I would consider making the through holes on the TVS diode larger, the 1.5KE20A TVS diode is rated for a 54A peak current and has mcuh larger leads than I anticiapted.
 ## Bill of Materials 
 I bought all the electronics on mouser but found the enclosures and jacks are much cheaper on Ali Express
-- go here for a complete bill of materials in an excel file https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/Power%20supply.xlsx
+- Go here for a complete bill of materials in an excel file https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/Power%20supply.xlsx
 
