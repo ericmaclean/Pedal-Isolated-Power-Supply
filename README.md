@@ -10,6 +10,12 @@ This a project folder for a 9 channel isolated power supply. The design is based
 - EMI filtering
 - Fast blow 10A primary fuse and PTC 300mA secondary fuse
 
+## Build 
+
+
+## Functional Circuit Diagram 
+
+
 ## Falstad Circuit Flow 
 
 
@@ -21,6 +27,6 @@ This a project folder for a 9 channel isolated power supply. The design is based
 
 ## Bill of Materials 
 
-## Build 
+
 
 
