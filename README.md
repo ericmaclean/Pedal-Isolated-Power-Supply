@@ -4,11 +4,11 @@ This a project folder for a 9 channel isolated power supply. The design is based
 
 ## Features: 
 
-- True isolation
+- 9 channel 9VDC 300mA true isolated power 
 - Full bridge rectification and filtering 
 - MOV and TVS surge protection
 - EMI filtering
-- Fast blow 10A primary fuse and PTC 300mA secondary fuse 
+- Fast blow 10A primary fuse and PTC 300mA secondary fuse
 
 ## Falstad Circuit Flow 
 
