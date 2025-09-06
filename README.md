@@ -33,7 +33,6 @@ I ordered 10 boards each of which act as a separate channel, ordering the boards
 
 ## Build 
 ![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Demo.png)
-![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Enclosure.png)
 ![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Guts.png)
 
 ## Bill of Materials 
