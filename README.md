@@ -11,10 +11,6 @@ This is a project folder for a 9 channel isolated power supply. The design is ba
 - Fast blow 10A primary fuse and PTC 300mA secondary fuse
 - Power switch and LED for power indication
 
-## Build 
-![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Demo.png)
-![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Enclosure.png)
-![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Guts.png)
 ## Functional Circuit Diagram 
 ![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/FunctionalBlockDiagram%20.png)
 
@@ -34,6 +30,12 @@ Visualizing the current we are able to see the current source spiking to charge 
 ![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/EasyEDA_Layout.png)
 
 I ordered 10 boards each of which act as a separate channel, ordering the boards individually made the order cheaper and simpler than having one board for everything. On a second revision I would consider making the through holes on the TVS diode larger, the 1.5KE20A TVS diode is rated for a 54A peak current and has much larger leads than I anticiapted.
+
+## Build 
+![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Demo.png)
+![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Enclosure.png)
+![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Guts.png)
+
 ## Bill of Materials 
 I bought all the electronics on mouser but found the enclosures and jacks are much cheaper on Ali Express
 - Go here for a complete bill of materials in an excel file https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/Power%20supply.xlsx
