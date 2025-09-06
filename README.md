@@ -12,8 +12,9 @@ This is a project folder for a 9 channel isolated power supply. The design is ba
 - Power switch and LED for power indication
 
 ## Build 
-
-
+![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/Demo.HEIC)
+![alternative text]()
+![alternative text]()
 ## Functional Circuit Diagram 
 ![alternative text](https://github.com/ericmaclean/Pedal-Isolated-Power-Supply/blob/main/ScreenShots/FunctionalBlockDiagram%20.png)
 
